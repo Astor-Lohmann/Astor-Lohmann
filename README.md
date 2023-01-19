@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Astor Lohmann Palmeira</h1>
-<h3 align="center">Full-stack developer from Brazil, looking for my first job in the market</h3>
+<h3 align="center">Full-stack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Java, React**
+- 🔭 I'm a looking for a entry job in the market.
 
-- 📫 How to reach me **astorlohmann@gmail.com**
+- 🌱 I'm learnig React and Java, you can check some of my personal projects below
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/astor-palmeira-0bb06190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/astor-palmeira-0bb06190/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/astor.palmeira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/astor.palmeira" height="30" width="40" /></a>
-</p>
+- 💬 You can get in touch with me by email at [astorlohmann@gmail.com](mailto:astorlohmann@gmail.com), and [LinkedIn](https://www.linkedin.com/in/astor-palmeira-0bb06190).
 
 <h3 align="left">Languages and Tools:</h3>
 
