@@ -24,5 +24,5 @@
 - **Java Projects:**: &nbsp;                     [https://github.com/Astor-Lohmann/clamed/tree/main/Modulo01/M%C3%B3dulo%201%20-%20Projeto%20Avaliativo%201](https://github.com/Astor-Lohmann/clamed/tree/main/Modulo01/M%C3%B3dulo%201%20-%20Projeto%20Avaliativo%201)
 - &nbsp; 
 
-- **Git Stats:**: &nbsp; 
-[![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=astor-lohmann&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Stats ⭐
+[![Astor Palmeira Github stats' github stats](https://github-readme-stats.vercel.app/api?username=astor-lohmann&show_icons=true)]
