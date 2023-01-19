@@ -22,7 +22,7 @@
 - **Data-Analytics Projects:**: &nbsp;           [https://github.com/Astor-Lohmann/Data_Analytics](https:https://github.com/Astor-Lohmann/Data_Analytics)
 
 - **Java Projects:**: &nbsp;                     [https://github.com/Astor-Lohmann/clamed/tree/main/Modulo01/M%C3%B3dulo%201%20-%20Projeto%20Avaliativo%201](https://github.com/Astor-Lohmann/clamed/tree/main/Modulo01/M%C3%B3dulo%201%20-%20Projeto%20Avaliativo%201)
-- &nbsp; 
+- 
 
 ### GitHub Stats ⭐
-[![Astor Palmeira Github stats' github stats](https://github-readme-stats.vercel.app/api?username=astor-lohmann&show_icons=true)]
+![Astor Palmeira Github stats' github stats](https://github-readme-stats.vercel.app/api?username=astor-lohmann&show_icons=true)
