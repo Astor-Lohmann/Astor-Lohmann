@@ -21,7 +21,7 @@
 
 - **Data-Analytics Projects:**: &nbsp;           [https://github.com/Astor-Lohmann/Data_Analytics](https:https://github.com/Astor-Lohmann/Data_Analytics)
 
-- **Java Projects:**: &nbsp;                     [[https://github.com/Astor-Lohmann/clamed/tree/main/Modulo01/M%C3%B3dulo%201%20-%20Projeto%20Avaliativo%201](https://github.com/Astor-Lohmann/JavaProjects/tree/main)]([https://github.com/Astor-Lohmann/clamed/tree/main/Modulo01/M%C3%B3dulo%201%20-%20Projeto%20Avaliativo%201](https://github.com/Astor-Lohmann/JavaProjects/tree/main))
+- **Java Projects:**: &nbsp;                     [[https://github.com/Astor-Lohmann/clamed/tree/main/Modulo01/M%C3%B3dulo%201%20-%20Projeto%20Avaliativo%201](https://github.com/Astor-Lohmann/JavaProjects/tree/main)
 - 
 
 ### GitHub Stats ⭐
