@@ -19,7 +19,7 @@
 
 ### Projects 🐾
 
-- **Data-Analytics Projects:**: &nbsp;           [[https://github.com/Astor-Lohmann/Data_Analytics](https://github.com/Astor-Lohmann/Data_Analytics)
+- **Data-Analytics Projects:**: &nbsp;           [https://github.com/Astor-Lohmann/Data_Analytics](https://github.com/Astor-Lohmann/Data_Analytics)
 
 - **Java Projects:**: &nbsp;                     [https://github.com/Astor-Lohmann/JavaProjects/tree/main](https://github.com/Astor-Lohmann/JavaProjects/tree/main)
 
